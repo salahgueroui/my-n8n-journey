@@ -16,3 +16,10 @@ This workflow automates a smart car dealership process. Every time a car is sold
 - Gmail
 - Google Sheets
 
+## 🎯 Use Case
+Ideal for car dealerships or sales teams that want to automate notifications and maintain a structured sales log without manual data entry.
+
+## 📝 Notes
+- Requires OAuth credentials for Gmail and Google Sheets.
+- Google Sheet must have predefined column headers matching the sale data.
+- This workflow does not use AI agents and focuses on simple automation.
