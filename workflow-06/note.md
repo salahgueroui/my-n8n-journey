@@ -28,7 +28,7 @@ Automate ticket monitoring, summarization, and notification without manual inter
 
 ---
 
-## 🔄 Workflow Architecture
+## 🔄 Workflow Architecture---------------
 
 **Trigger → AI Processing → Notification**
 
@@ -49,7 +49,7 @@ Automate ticket monitoring, summarization, and notification without manual inter
 
 ---
 
-## 🧩 Airtable Schema
+## 🧩 Airtable Schema-------
 
 | Field Name        | Type              |
 |------------------|-------------------|
