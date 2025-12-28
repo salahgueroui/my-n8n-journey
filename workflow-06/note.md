@@ -62,7 +62,7 @@ Automate ticket monitoring, summarization, and notification without manual inter
 
 ---
 
-## ✉️ Example Email Output
+## ✉️ Example Email Output---------
 
 **Subject:** New IT Support Ticket – High Priority  
 
@@ -76,7 +76,7 @@ Automate ticket monitoring, summarization, and notification without manual inter
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies--------
 
 - **n8n** – Workflow orchestration
 - **Airtable** – Ticket database and trigger source
